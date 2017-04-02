@@ -22,7 +22,7 @@ componentDidMount() is invoked soon after component is rendered.
 componentWillReceiveProps() is invoked when rendered component recieves the new props.
 
 <h1>Lets Dive into the Tutorial<h1>
-So, we will design the simple login app with material-ui from scratch. with few pages to give you idea of the routing.
+<p>So, we will design the simple login app with material-ui from scratch. with few pages to give you idea of the routing.</p>
 
 <h2>Step 1</h2>
 Create-react-app projectname
