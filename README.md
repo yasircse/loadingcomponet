@@ -21,18 +21,18 @@ componentDidMount() is invoked soon after component is rendered.
 <h3>componentWillReceiveProps()</h3>
 componentWillReceiveProps() is invoked when rendered component recieves the new props.
 
-<h1>Lets Dive into the Tutorial<h1>
+<h2>Lets Dive into the Tutorial</h2>
 <p>So, we will design the simple login app with material-ui from scratch. with few pages to give you idea of the routing.</p>
 
-<h2>Step 1</h2>
+<h3>Step 1</h3>
 Create-react-app projectname
-<h2>Step 2</h2>
+<h3>Step 2</h3>
 cd projectname
-<h2>Step 3</h2>
+<h3>Step 3</h3>
 npm install --save material-ui
-<h2>Step 4</h2>
+<h3>Step 4</h3>
 npm install --save react-tap-event-plugin'
-<p>This step is important! you need to install 'react-tap-event-plugin', and use the 'injectTapEventPlugin()' method in your index.js file otherwise you will mess up with onTouchTap() functionality. According to Material-UI official website (http://www.material-ui.com/#/get-started/installation)the react-tap-event-plugin provides onTouchTap() to all React Components. It's a mobile-friendly onClick() alternative for components in Material-UI, especially useful for the buttons.</p>
+<p>Note: Step 4 is important! you need to install 'react-tap-event-plugin', and use the 'injectTapEventPlugin()' method in your index.js file otherwise you will mess up with onTouchTap() functionality. According to Material-UI official website (http://www.material-ui.com/#/get-started/installation)the react-tap-event-plugin provides onTouchTap() to all React Components. It's a mobile-friendly onClick() alternative for components in Material-UI, especially useful for the buttons.</p>
 
 <h3>feel free to download the code<h3>
 <h3>AppScreen shot</h3>
