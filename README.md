@@ -36,4 +36,5 @@ npm install --save react-tap-event-plugin'
 
 <h3>feel free to download the code<h3>
 <h3>AppScreen shot</h3>
-![alt tag](https://cloud.githubusercontent.com/assets/16023599/24588905/caf13898-17ea-11e7-93da-7a53b321d0fb.png)
+
+![screenshot](https://cloud.githubusercontent.com/assets/16023599/24589209/2ad28802-17f0-11e7-8789-0b22a4944cdd.png)
