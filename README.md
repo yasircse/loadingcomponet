@@ -35,7 +35,7 @@ npm install --save react-tap-event-plugin'
 <p>Note: Step 4 is important! you need to install 'react-tap-event-plugin', and use the 'injectTapEventPlugin()' method in your index.js file otherwise you will mess up with onTouchTap() functionality. According to Material-UI official website (http://www.material-ui.com/#/get-started/installation)the react-tap-event-plugin provides onTouchTap() to all React Components. It's a mobile-friendly onClick() alternative for components in Material-UI, especially useful for the buttons.</p>
 
 <h3>App Preview<h3>
-https://hidden-peak-81473.herokuapp.com/login
+https://hidden-peak-81473.herokuapp.com/
 
 <h3>AppScreen shot</h3>
 ![screenshot](https://cloud.githubusercontent.com/assets/16023599/24589209/2ad28802-17f0-11e7-8789-0b22a4944cdd.png)
